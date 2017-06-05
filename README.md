@@ -12,7 +12,7 @@ ykey/annotation - PHP Annotation Library
 {
   "repositories": [{
     "url": "https://github.com/ykeyjp/php-annotation.git",
-    "type": "git"
+    "type": "vcs"
   }],
   "require": {
     "ykey/annotation": "*"
